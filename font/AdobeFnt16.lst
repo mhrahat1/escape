@@ -1,0 +1,137 @@
+%!Adobe-FontList 1.16
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\fullstackwebdevelopment\exam_psd_escape\Font\cubano\Cubano License.pdf
+FileModTime:1613896994
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Cubano-Normal
+FamilyName:Cubano
+StyleName:Normal
+FullName:Cubano Normal
+MenuName:Cubano Normal
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\fullstackwebdevelopment\exam_psd_escape\Font\cubano\Cubano-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:11556
+FileModTime:1613897002
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Cubano Normal
+NameArray:0,Win,1,Cubano Normal
+NameArray:0,Win,16,Cubano
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Bold
+FamilyName:Brandon Grotesque
+StyleName:Bold
+FullName:Brandon Grotesque Bold
+MenuName:Brandon Grotesque Bold
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\fullstackwebdevelopment\exam_psd_escape\Font\brandon_grotesque\Brandon-bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89928
+FileModTime:1613896890
+WeightClass:450
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Brandon Grotesque Bold
+NameArray:0,Win,1,Brandon Grotesque Bold
+NameArray:0,Win,16,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Light
+FamilyName:Brandon Grotesque
+StyleName:Light
+FullName:Brandon Grotesque Light
+MenuName:Brandon Grotesque Light
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\fullstackwebdevelopment\exam_psd_escape\Font\brandon_grotesque\Brandon-light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:87268
+FileModTime:1613896897
+WeightClass:330
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Brandon Grotesque Light
+NameArray:0,Win,1,Brandon Grotesque Light
+NameArray:0,Win,16,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Medium
+FamilyName:Brandon Grotesque
+StyleName:Medium
+FullName:Brandon Grotesque Medium
+MenuName:Brandon Grotesque Medium
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\fullstackwebdevelopment\exam_psd_escape\Font\brandon_grotesque\Brandon-medium.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:89536
+FileModTime:1613896902
+WeightClass:420
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Brandon Grotesque Medium
+NameArray:0,Win,1,Brandon Grotesque Medium
+NameArray:0,Win,16,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:BrandonGrotesque-Regular
+FamilyName:Brandon Grotesque
+StyleName:Regular
+FullName:Brandon Grotesque Regular
+MenuName:Brandon Grotesque Regular
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\fullstackwebdevelopment\exam_psd_escape\Font\brandon_grotesque\Brandon-regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:86528
+FileModTime:1613896915
+WeightClass:390
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Brandon Grotesque Regular
+NameArray:0,Win,1,Brandon Grotesque Regular
+NameArray:0,Win,16,Brandon Grotesque
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:D:\fullstackwebdevelopment\exam_psd_escape\Font\brandon_grotesque\License.txt
+FileModTime:1613896920
+%EndFont
+
